@@ -1,4 +1,4 @@
 package org.example;
 
-public class User {
+public class Test {
 }
